@@ -1,4 +1,5 @@
-# Data Science Basics - following FCC 17hr tutorial + will refer docs later if needed
+# Data Science Basics 
+### Following FCC 17hr tutorial + will refer docs later if needed
 
 
 17 Aug 2025
